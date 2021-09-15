@@ -1,12 +1,20 @@
 {
-  "name": "GDSC",
+  "name": "gdsc",
   "version": "1.0.0",
-  "description": "",
   "main": "code.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "vanessa",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanessrw/GDSC.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vanessrw/GDSC/issues"
+  },
+  "homepage": "https://github.com/vanessrw/GDSC#readme",
+  "description": ""
 }
